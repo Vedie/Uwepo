@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Uwepo
+UWEPO est une solution IoT innovante de gestion de présence en temps réel. Basé sur un microcontrôleur ESP32 et la technologie RFID, le système automatise le pointage et synchronise les données sur un dashboard React via Firebase. Une architecture cyber-physique alliant rapidité, sécurité et traçabilité numérique.
+>>>>>>> 96b42101380a8f69b106cd8ebd81b040e1d24b88
