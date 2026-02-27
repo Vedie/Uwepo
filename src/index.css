@@ -1,0 +1,25 @@
+:root {
+  --upc-blue: #1A365D;
+  --upc-yellow: #FFBF00;
+  --upc-red: #E53E3E;
+  --upc-bg: #F7FAFC;
+  --upc-text: #2D3748;
+  --upc-white: #FFFFFF;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--upc-bg);
+  color: var(--upc-text);
+  font-family: 'Inter', -apple-system, sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e0;
+  border-radius: 10px;
+}
